@@ -24,8 +24,7 @@ A modern, responsive URL shortener application built with React, JavaScript, and
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd AffordMed
+git clone https://github.com/rahul-1809/22341A4239.git
 ```
 
 2. Install dependencies:
